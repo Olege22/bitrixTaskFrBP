@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/cloudy_yellow/styles.css" => "1535787693772","/bitrix/templates/cloudy_yellow/template_styles.css" => "15357876937893","/bitrix/js/fileman/sticker.css" => "153494079224594",)); ?>
